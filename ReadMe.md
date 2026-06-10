@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a standard school management system<br>👯 I’m looking to collaborate on multiple project <br>🌱 I’m currently learning typescript<br>⚡ I'm a fast learner. I'm a very optimistic person and goal oriented <br>I make sure task given to me are carried out to the best.
+🔭 I’m currently working on a cyber threat detection system<br>👯 I’m looking to collaborate on multiple project <br>🌱 I’m currently learning typescript<br>⚡ I'm a fast learner. I'm a very optimistic person and goal oriented <br>I make sure task given to me are carried out to the best.
 
 
 ## 🌐 Socials:
